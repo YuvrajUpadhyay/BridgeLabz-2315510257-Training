@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dcd5a594-35db-4de3-9ce8-0217699b9166" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Arrays/RearrangeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChocolateDistribution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomStats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WindChill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/RockPaperScissor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class_Problems/DigitFrequency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class_Problems/Factors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class_Problems/FizzBuzz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class_Problems/ReverseNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class_Problems/StudentGrades.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class_Problems/TwoDtoOneD.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="31rC4Y2f6h72Pked9leU6PUvBVc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Core-Java&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Sem5/BridgeLabz/Practice Problems/Java_Methods&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcd5a594-35db-4de3-9ce8-0217699b9166" name="Changes" comment="" />
+      <created>1756272613759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756272613759</updated>
+    </task>
+    <servers />
+  </component>
+</project>
